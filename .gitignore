@@ -1,2 +1,2 @@
-nano .gitignore
 *.txt
+.gitignore
